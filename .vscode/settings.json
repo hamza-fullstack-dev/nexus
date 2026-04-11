@@ -1,0 +1,11 @@
+{
+  "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk",
+  "dart.flutterSdkPath": "C:\\flutter",
+  "dart.enableSdkFormatter": true,
+  "dart.enableSnippets": true,
+  "editor.formatOnSave": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  }
+}

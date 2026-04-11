@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232769896783",
+    "project_id": "nexus-69da3",
+    "storage_bucket": "nexus-69da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232769896783:android:bec7933003623c4ea4453a",
+        "android_client_info": {
+          "package_name": "com.example.study_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232769896783-boju252tnk2o6sris6eejtlh7uh451n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.study_assistant",
+            "certificate_hash": "06a66dd151d0cb3287b2994eed123877fe4527ba"
+          }
+        },
+        {
+          "client_id": "232769896783-5smhc7ilarna1mcjvqqc2t4pi28jb03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHvEn5ccoM8TAM1Ovc8kqUbNJno1_Q1dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232769896783-5smhc7ilarna1mcjvqqc2t4pi28jb03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
