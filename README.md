@@ -1,4 +1,4 @@
-# 🧠 Nexus — AI Study Assistant
+# 🧠 Nexus: AI Study Assistant
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Scan notes → Generate quizzes → Create flashcards → Track your study time.
 
 ### 🎙️ Voice Summarizer
 - Speak in **Urdu or English**
-- Powered by **Whisper AI** — real-time transcription
+- Powered by **Whisper AI**: real-time transcription
 - AI generates structured summary of what you said
 - Duration, word count, and summary word count displayed
 - Copy transcript or summary instantly
@@ -76,7 +76,7 @@ Scan notes → Generate quizzes → Create flashcards → Track your study time.
 ### 🔐 Authentication
 - Email + Password login and signup
 - OTP-based password reset (6-digit code via email)
-- Firebase Auth — verified accounts only
+- Firebase Auth: verified accounts only
 - Persistent login session
 
 ---
@@ -86,8 +86,8 @@ Scan notes → Generate quizzes → Create flashcards → Track your study time.
 | Layer | Technology |
 |---|---|
 | **Framework** | Flutter (Dart) |
-| **AI — Quiz & Summary** | Groq AI API (Llama 3.1) |
-| **AI — Voice** | Whisper AI |
+| **AI: Quiz & Summary** | Groq AI API (Llama 3.1) |
+| **AI: Voice** | Whisper AI |
 | **Backend & Database** | Firebase Firestore |
 | **Authentication** | Firebase Auth (OTP) |
 | **OCR** | Google ML Kit |
@@ -156,17 +156,17 @@ Add your `google-services.json` from Firebase Console to `/android/app/`.
 
 Most students struggle with converting passive reading into active learning. Nexus solves this by:
 
-- **Eliminating manual note-taking** — just scan and go
-- **Forcing active recall** — quizzes beat re-reading every time
-- **Tracking consistency** — streaks and weekly graphs build habits
-- **Supporting Urdu speakers** — voice notes work in Urdu and English
+- **Eliminating manual note-taking**: just scan and go
+- **Forcing active recall**: quizzes beat re-reading every time
+- **Tracking consistency**: streaks and weekly graphs build habits
+- **Supporting Urdu speakers**: voice notes work in Urdu and English
 
 ---
 
 ## 👨‍💻 Built By
 
 **Muhammad Hamza**
-Final Year CS Student — Capital University of Science and Technology (CUST)
+Final Year CS Student, Capital University of Science and Technology (CUST)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/hamzmzjhdjd)
@@ -175,7 +175,7 @@ Final Year CS Student — Capital University of Science and Technology (CUST)
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
